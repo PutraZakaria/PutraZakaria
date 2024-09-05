@@ -7,8 +7,8 @@
 <a href="https://instagram.com/zakaria.muzaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakaria.muzaki" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsfuller&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Most Used Languages" style="margin-right: 50px;" />
+<div style="display: flex; justify-content: center; gap: 50px; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsfuller&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Most Used Languages" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=putrazakaria&" alt="Streak" />
 </div>
 
