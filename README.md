@@ -7,13 +7,10 @@
 <a href="https://instagram.com/zakaria.muzaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakaria.muzaki" height="30" width="40" /></a>
 </p>
 
-<div style="text-align: center">  
-  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=putrazakaria&show_icons=true&locale=en" alt="putrazakaria" /></p> -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=putrazakaria&" alt="putrazakaria" />
-  <br/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsfuller&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsfuller&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=putrazakaria&" alt="putrazakaria" />
 
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=putrazakaria&show_icons=true&locale=en" alt="putrazakaria" /></p> -->
 
 
 
