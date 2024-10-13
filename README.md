@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Putra Zakaria Muzaki</h1>
-<h3 align="center">A passionate frontend developer from Indonesia. I have a strong interest in building user-friendly and visually appealing websites. With a solid foundation in HTML, CSS, JavaScript, and experience working with frameworks like Bootstrap, Tailwind, and Laravel, I am dedicated to improving my skills and staying updated with the latest web development trends. Currently, I am learning about React JS to enhance my ability to create dynamic and efficient web applications and Flutter to build cross-platform mobile applications efficiently.</h3>
+<h3 align="center">A passionate front-end developer with a strong interest in building user-friendly and visually appealing websites. With a solid foundation in HTML, CSS, and JavaScript, along with experience in frameworks like Bootstrap, Tailwind, and Laravel, I am committed to continuously improving my skills and staying up-to-date with the latest web development trends. Currently, I am learning React JS to enhance my ability to create dynamic and efficient web applications, and Flutter to build cross-platform mobile applications effectively.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,7 +12,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=putrazakaria&" alt="Streak" />
 </div>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=putrazakaria&show_icons=true&locale=en" alt="putrazakaria" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=putrazakaria&show_icons=true&locale=en" alt="putrazakaria" /></p>
 
 
 
