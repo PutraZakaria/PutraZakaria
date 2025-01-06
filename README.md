@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋, I'm Putra Zakaria Muzaki</h2>
 <h3 align="left">A passionate full-stack web and mobile developer. Currently, learning React JS and Flutter.</h3>
-<h6 align="left">(need intern information urgently:D)</h6>
+<!-- <h6 align="left">(need intern information urgently:D)</h6> -->
+<!-- nvm guys, i've already hired for intern, still waiting for future job;D -->
 
 ![alt](https://64.media.tumblr.com/214b2cfdfb22eea881ed40a112a05c03/tumblr_noo8cpsHnb1s68p7oo1_640.gif)
 
